@@ -18,7 +18,7 @@ public class SingleInstanceClass {
 	public static ServerSocket socket;
 
 	/** The Constant APP_SUCCESS_WELCOME_MESS. */
-	public static final String APP_SUCCESS_WELCOME_MESS = "Hello " + System.getProperty("user.name")
+	public static final String APP_SUCCESS_WELCOME_MESS = " Hello " + System.getProperty("user.name")
 			+ "! welcome to the single instance application";
 
 	/** The Constant APP_ALREADY_EXIST_MESS. */
