@@ -9,7 +9,7 @@ import org.eclipse.swt.widgets.Display;
 /**
  * The Class SingleInstanceClass.
  * 
- * @author Subash.Janarthanan
+ * @author  Subash.Janarthanan 
  * 
  */
 public class SingleInstanceClass {
